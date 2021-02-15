@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Website: <a href="ahernot.github.io"></a>
+Website: [ahernot.github.io]
