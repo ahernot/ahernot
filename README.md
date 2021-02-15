@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 Website: [ahernot.github.io](https://ahernot.github.io)
 
+
+<!---->
 <p align="center">
-<a href="http://www.matthieuschulz.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.matthieuschulz.me-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/matthieuschulz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mathieu%20Schulz-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:matthew.schulz.19@ucl.ac.uk"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.schulz.19@ucl.ac.uk-blue?style=flat-square&logo=gmail"></a>
+<a href="http://ahernot.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.matthieuschulz.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/anatolehernot/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mathieu%20Schulz-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:anatole.hernot@mines-paristech.fr"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.schulz.19@ucl.ac.uk-blue?style=flat-square&logo=gmail"></a>
 </p>
+<!---->
