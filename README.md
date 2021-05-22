@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm an engineering student at Mines ParisTech (France).
+I am currently learning PHP and Unity game development.
+
 <!--
 **ahernot/ahernot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
