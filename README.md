@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm an engineering student at Mines ParisTech (France).
+<br>
 I am currently learning PHP and Unity game development.
 
 <!--
