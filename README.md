@@ -2,7 +2,7 @@
 
 I'm an engineering student at Mines ParisTech (France).
 <br>
-I am currently learning PHP/Laravel and Unity game development.
+I am currently learning <strong>PHP/Laravel</strong> and <strong>Unity game development</strong>.
 
 <!--
 **ahernot/ahernot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
