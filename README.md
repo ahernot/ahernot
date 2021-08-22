@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Website (temporary): [ahernot.github.io](https://ahernot.github.io)
+<!-- Website (temporary): [ahernot.github.io](https://ahernot.github.io) -->
 
 
 <!--
