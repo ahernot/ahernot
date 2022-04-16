@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineering student at Mines ParisTech (France).
+I'm an engineering student at Mines Paris (France).
 <br>
 I am currently learning <strong>PHP/Laravel</strong> and <strong>Unity game development</strong>.
 
