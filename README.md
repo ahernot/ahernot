@@ -2,7 +2,7 @@
 
 I'm an engineering student at Mines Paris (France).
 <br>
-I am currently learning <strong>Rust</strong> and <strong>Python Docker workflows</strong>.
+<!-- I am currently learning <strong>Rust</strong> and <strong>Python Docker workflows</strong>. -->
 
 <!--
 **ahernot/ahernot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
