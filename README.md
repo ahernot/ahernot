@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an MSc Engineering student at Mines Paris (France).
+I'm an GenAI engineer specialized in 3D CAD model generation.
 <br>
 <!-- I am currently learning <strong>Rust</strong> and <strong>Python Docker workflows</strong>. -->
 
